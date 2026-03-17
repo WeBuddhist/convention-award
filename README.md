@@ -20,7 +20,6 @@ BCC brings together Buddhist content creators and equips them to share the Dharm
 - Application fee introduced (variable by country, e.g. 1,000–5,000 INR)
 - Formal selection committee with defined criteria
 - Attendance and certificate eligibility tracking
-- No free accommodation — participants arrange and cover their own stay
 - Alumni and volunteer pipeline from BCC 2026
 
 ### 🎤 Convention Programming
